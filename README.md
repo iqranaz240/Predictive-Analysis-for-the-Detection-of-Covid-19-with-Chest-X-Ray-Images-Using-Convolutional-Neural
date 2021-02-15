@@ -1,2 +1,2 @@
 # Predictive-Analysis-for-the-Detection-of-Covid-19-with-Chest-X-Ray-Images-Using-Convolutional-Neural
-We have apply LxN__Lungs-X-Ray-Neural-Network-Model for coved detection with the accuracy of 98.83% and publish a research paper "Predictive Analysis for the Detection of Covid-19 with Chest X-Ray Images Using Convolutional Neural Network" on that. Complete code and Paper can be found in this repo  
+We have apply LxN__Lungs-X-Ray-Neural-Network-Model for coved detection with the accuracy of 98% and publish a research paper "Predictive Analysis for the Detection of Covid-19 with Chest X-Ray Images Using Convolutional Neural Network" on that. Complete code and Paper can be found in this repo  
